@@ -1,4 +1,4 @@
-Bootstrap Page Generator
+React Page Generator
 ======================
 
 Page generator tool for react js
